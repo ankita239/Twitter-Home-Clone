@@ -1,0 +1,7 @@
+.scrollbar-none::-webkit-scrollbar{
+  display: none;
+}
+
+.scroller{
+  scrollbar-color: #3E4144 #0000;
+}
